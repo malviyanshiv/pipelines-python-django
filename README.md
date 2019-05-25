@@ -2,6 +2,8 @@
 
 For information on how to use this repository, see [Python](https://docs.microsoft.com/azure/devops/pipelines/languages/python).
 
+[![Build Status](https://dev.azure.com/malviyanshiv/DemoProject/_apis/build/status/malviyanshiv.pipelines-python-django?branchName=master)](https://dev.azure.com/malviyanshiv/DemoProject/_build/latest?definitionId=3&branchName=master)
+
 | Example | Build status |
 |---------|--------------|
 | Build (YAML) | [![Build status](https://dev.azure.com/pipelines-docs/docs/_apis/build/status/python-django/python)](https://dev.azure.com/pipelines-docs/docs/_build/latest?definitionId=13) |
